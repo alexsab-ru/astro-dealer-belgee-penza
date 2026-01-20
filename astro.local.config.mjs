@@ -68,6 +68,12 @@ export default defineConfig({
 		icon(),
 		react(),
 	],
+	redirects: {
+		"/magazine/x70/1/":
+			"/models/x70-facelift/?utm_source=magazine&utm_medium=qr&utm_campaign=belgee_x70_2499990_credit_001_8y&utm_content=magazine_qr_x70_v1",
+		"/magazine/s50/1/":
+			"/models/s50/?utm_source=magazine&utm_medium=qr&utm_campaign=belgee_s50_benefit_200k_credit_001_8y&utm_content=magazine_qr_s50_v1",
+	},
 	vite: {
 		plugins: [
 			yaml(),
