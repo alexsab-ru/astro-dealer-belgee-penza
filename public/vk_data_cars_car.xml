@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <cars>
+    <car>
+      <unique_id>Y4K8622Z2TB922368</unique_id>
+      <url>https://belgee-penza.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z2TB922368</vin>
+      <price>2509990</price>
+      <sale_price>2409990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>100000</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-penza.ru/new/Y4K8622Z2TB922368/0/full.webp?v=4e26b5041216</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z2TB922369</unique_id>
+      <url>https://belgee-penza.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z2TB922369</vin>
+      <price>2509990</price>
+      <sale_price>2409990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>100000</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-penza.ru/new/Y4K8622Z2TB922369/0/full.webp?v=4e26b5041216</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z6TB946320</unique_id>
+      <url>https://belgee-penza.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z6TB946320</vin>
+      <price>2509990</price>
+      <sale_price>2409990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>100000</max_benefit>
+      <color>серебряный</color>
+      <availability>На заказ</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-penza.ru/new/Y4K8622Z2TB922369/0/full.webp?v=4e26b5041216</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z6TB946321</unique_id>
+      <url>https://belgee-penza.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z6TB946321</vin>
+      <price>2509990</price>
+      <sale_price>2409990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>100000</max_benefit>
+      <color>серебряный</color>
+      <availability>На заказ</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-penza.ru/new/Y4K8622Z2TB922369/0/full.webp?v=4e26b5041216</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z7TB947671</unique_id>
+      <url>https://belgee-penza.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z7TB947671</vin>
+      <price>2509990</price>
+      <sale_price>2409990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>100000</max_benefit>
+      <color>серебряный</color>
+      <availability>На заказ</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-penza.ru/new/Y4K8622Z2TB922369/0/full.webp?v=4e26b5041216</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z7TB947672</unique_id>
+      <url>https://belgee-penza.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z7TB947672</vin>
+      <price>2509990</price>
+      <sale_price>2409990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>100000</max_benefit>
+      <color>серебряный</color>
+      <availability>На заказ</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-penza.ru/new/Y4K8622Z2TB922369/0/full.webp?v=4e26b5041216</image>
+      </images>
+    </car>
+  </cars>
+</data>
